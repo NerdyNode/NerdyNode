@@ -58,13 +58,20 @@ Motto       : Learn. Build. Share. Repeat.
 
 ```text
 $ build --ideas --into=working-products
-
 → Learn deeply
 → Build consistently
 → Share openly
 → Repeat with purpose
 ```
 
+### `> dev_mode`
+
+```text
+Fuel       : Coffee + curiosity
+Approach   : Build small. Learn fast.
+Current    : Turning ideas into useful tools
+Rule       : Ship → reflect → repeat
+```
 </td>
 </tr>
 </table>
