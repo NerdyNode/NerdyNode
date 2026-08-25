@@ -16,29 +16,23 @@
 
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="38%" valign="middle">
 
-## `> profile`
+<pre>
+       .-''''-.
+     .'  _    _ '.
+    /   (o)  (o)  \
+   |      .--.      |
+   |     /    \     |
+    \    \____/    /
+     '.          .'
+       '-.____.-'
 
-<p align="center">
-  <img src="assets/profile.png" width="230" alt="Arghya Gain profile illustration" />
-</p>
-
-<h2 align="center">Arghya Gain</h2>
-<p align="center"><code>@NerdyNode</code></p>
-
-> Turning ☕ into <strong style="color:#58a6ff">code</strong> and ideas into <strong style="color:#58a6ff">impact</strong>.
-
-| | |
-|---|---|
-| `Location` | Kolkata, India |
-| `Role` | Student · Developer · Lifelong Learner |
-| `Focus` | AI/ML · Android · Backend Systems |
-| `Languages` | Python · C/C++ · Java · SQL · Dart |
-| `Status` | Always learning something new |
+     N E R D Y N O D E
+</pre>
 
 </td>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
 ## `> whoami`
 
@@ -54,20 +48,11 @@ OS          : Windows 11
 Motto       : Learn. Build. Share. Repeat.
 ```
 
-### `> current_mission`
-
-```text
-$ build --ideas --into=working-products
-
-→ Learn deeply
-→ Build consistently
-→ Share openly
-→ Repeat with purpose
-```
-
 </td>
 </tr>
 </table>
+
+> Turning ☕ into **code** and ideas into **impact**.
 
 ---
 
@@ -88,7 +73,7 @@ $ build --ideas --into=working-products
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="55%" valign="top">
 
 ## `> about_me`
 
@@ -103,29 +88,28 @@ I’m a curious developer who enjoys turning ideas into useful, working projects
 ```
 
 </td>
-<td width="48%" valign="top">
+<td width="45%" valign="top">
 
 ## `> github_stats`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NerdyNode&show_icons=true&hide_border=true&bg_color=0b1220&title_color=58a6ff&text_color=c9d1d9&icon_color=7ee787&rank_icon=github" alt="NerdyNode GitHub statistics" />
-</p>
+```text
+Public repositories : 6
+Primary focus       : AI/ML | Android | Backend
+Main languages      : Python | Java | JavaScript
+Featured projects   : 6
+Contributions       : See the activity below
+Status              : Learning & shipping
+```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerdyNode&layout=compact&hide_border=true&bg_color=0b1220&title_color=58a6ff&text_color=c9d1d9" alt="NerdyNode top languages" />
+  <a href="https://github.com/NerdyNode?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_repositories-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
 </p>
 
 </td>
 </tr>
 </table>
-
----
-
-## `> contribution_graph`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NerdyNode&bg_color=0b1220&color=c9d1d9&line=39d353&point=7ee787&area=true&hide_border=true" alt="NerdyNode contribution activity graph" />
-</p>
 
 ---
 
