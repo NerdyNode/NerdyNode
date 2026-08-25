@@ -1,52 +1,42 @@
 <div align="center">
 
-# `NerdyNode`
-
-### Arghya Gain · Developer · AI/ML · Builder
-
-> **Turning ☕ into Code and Ideas into Impact.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-NerdyNode-181717?style=for-the-badge&logo=github)](https://github.com/NerdyNode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arghya%20Gain-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arghya-gain-5b0a121a6/)
-[![Medium](https://img.shields.io/badge/Medium-Arghya%20Gain-000000?style=for-the-badge&logo=medium)](https://medium.com/@arghyagain)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--3072--6797-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0009-3072-6797)
+```text
+NerdyNode@GitHub:~$ whoami
+```
 
 </div>
 
 <table>
 <tr>
-<td width="30%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<img src="./assets/profile.png" width="220" alt="Arghya Gain"/>
+```text
+        .-''''-.
+      .'  _    _ '.
+     /   (o)  (o)  \
+    |      .--.      |
+    |     /    \     |
+     \    \____/    /
+      '.          .'
+        '-.____.-'
 
-### `@NerdyNode`
-
-**Student · Developer · Lifelong Learner**
-
-📍 Kolkata, India
-
-> Learn. Build. Share. Repeat.
+      ████  NERDYNODE  ████
+```
 
 </td>
 
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
 ```text
-NerdyNode@GitHub:~$ whoami
-
 Name       : Arghya Gain
 Username   : NerdyNode
-Role       : Student | Developer | Builder
-Focus      : AI/ML | App Development | Backend
-Currently  : Building cool things & learning
+Location   : Kolkata, India
+Role       : Student | Developer
+Focus      : AI/ML | Android | Backend
+Currently  : Building & learning
 Editor     : VS Code | PyCharm
+Motto      : Learn. Build. Share. Repeat.
 ```
-
-### `> tech_stack`
-
-`Python` · `Java` · `C/C++` · `SQL` · `JavaScript` · `Kotlin` · `Dart`
-
-`AI/ML` · `Android` · `Arduino` · `Pygame` · `Git` · `Nextcloud`
 
 </td>
 </tr>
@@ -54,63 +44,93 @@ Editor     : VS Code | PyCharm
 
 ---
 
-## `> about_me`
+### `> tech_stack`
+
+<p align="center">
+
+`🐍 Python` · `☕ Java` · `⚙️ C/C++` · `🗄️ SQL` · `🌐 JavaScript` · `💙 Kotlin` · `🎯 Dart`
+
+`🤖 AI/ML` · `📱 Android` · `🔌 Arduino` · `♟️ Pygame` · `🔧 Git` · `☁️ Nextcloud`
+
+</p>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `> about_me`
 
 I'm a curious developer who enjoys turning ideas into working projects.
 
-- 🤖 Interested in **AI/ML and data-driven solutions**
-- 💻 Building software, Android apps and automation projects
-- 🗄️ Exploring **DBMS, SQL and backend systems**
-- 🔌 Experimenting with **Arduino and hardware**
-- ♟️ Built projects around **Chess AI, XGBoost and automation**
+→ Interested in **AI/ML and data-driven solutions**  
+→ Building **software and Android applications**  
+→ Exploring **DBMS, SQL and backend systems**  
+→ Experimenting with **Arduino and hardware**  
+→ Learning by building real projects
+
+</td>
+
+<td width="50%" valign="top">
+
+### `> github_stats`
+
+```text
+Repositories       : 6
+Public Projects    : 6
+Current Focus      : Building
+Primary Language   : Python
+Contributions      : Active
+Status             : Learning & shipping 🚀
+```
+
+[![GitHub](https://img.shields.io/badge/@NerdyNode-181717?style=flat-square&logo=github)](https://github.com/NerdyNode)
+[![Repositories](https://img.shields.io/badge/Repositories-6-238636?style=flat-square)](https://github.com/NerdyNode?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `> github_stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NerdyNode&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170" alt="NerdyNode GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerdyNode&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NerdyNode&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
-## `> featured_projects`
+### `> featured_projects`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### 🧠 Age-Prediction
-Machine-learning project using classification techniques to determine age groups.
 
-**Python · XGBoost**
+Machine-learning project using classification techniques for age prediction.
 
-[View →](https://github.com/NerdyNode/Age-Prediction)
+`Python` · `XGBoost`
+
+**[↗ Repository](https://github.com/NerdyNode/Age-Prediction)**
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🏥 MediFlow
-AI-powered medical form digitization with OCR, validation and EHR integration.
 
-**TypeScript · AI**
+Medical form digitization with OCR, validation and healthcare data integration.
 
-[View →](https://github.com/NerdyNode/mediflow)
+`TypeScript` · `AI`
+
+**[↗ Repository](https://github.com/NerdyNode/mediflow)**
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🚗 Dynamic Parking
-Adaptive parking pricing based on demand and changing conditions.
 
-**Python · Data**
+Data-driven dynamic pricing for smart parking systems.
 
-[View →](https://github.com/NerdyNode/Dynamic-Parking-Pricing-System)
+`Python` · `Data`
+
+**[↗ Repository](https://github.com/NerdyNode/Dynamic-Parking-Pricing-System)**
 
 </td>
 </tr>
@@ -119,31 +139,36 @@ Adaptive parking pricing based on demand and changing conditions.
 <td width="33%" valign="top">
 
 ### ☕ LazyCoffee
-Self-hosted homelab setup for cloud storage, automation and private access.
 
-**Shell · Self-hosting**
+Self-hosted homelab setup for cloud storage, automation and private services.
 
-[View →](https://github.com/NerdyNode/lazycoffee)
+`Shell` · `Self-hosting`
+
+**[↗ Repository](https://github.com/NerdyNode/lazycoffee)**
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 💸 SplitMint
-Smart expense splitting for friends and groups with UPI support.
 
-**JavaScript · App**
+Expense splitting for friends and groups with UPI-oriented workflows.
 
-[View →](https://github.com/NerdyNode/splitmint)
+`JavaScript`
+
+**[↗ Repository](https://github.com/NerdyNode/splitmint)**
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 📄 PDF Wallet
-Android app for automatically organizing useful documents from PDFs.
 
-**Kotlin · Android**
+Android application for organizing and managing useful PDF documents.
 
-[View →](https://github.com/NerdyNode/pdf-wallet)
+`Kotlin` · `Android`
+
+**[↗ Repository](https://github.com/NerdyNode/pdf-wallet)**
 
 </td>
 </tr>
@@ -154,13 +179,10 @@ Android app for automatically organizing useful documents from PDFs.
 <div align="center">
 
 ```text
-$ echo "Keep building 🚀"
+"Code is like humor. When you have to explain it, it's bad."
+                                                    — Cory House
 ```
 
-**Thanks for stopping by.**
-
-[GitHub](https://github.com/NerdyNode) ·
-[LinkedIn](https://www.linkedin.com/in/arghya-gain-5b0a121a6/) ·
-[Medium](https://medium.com/@arghyagain)
+**[GitHub](https://github.com/NerdyNode) · [LinkedIn](https://www.linkedin.com/in/arghya-gain-5b0a121a6/) · [Medium](https://medium.com/@arghyagain)**
 
 </div>
