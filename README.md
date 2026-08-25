@@ -1,41 +1,68 @@
 <div align="center">
 
-```text
-NerdyNode@GitHub:~$ whoami
-```
+# `NerdyNode@GitHub:~$ whoami`
+
+<a href="https://github.com/NerdyNode">
+  <img src="https://img.shields.io/badge/NerdyNode-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="NerdyNode on GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/arghya-gain-5b0a121a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="https://medium.com/@arghyagain">
+  <img src="https://img.shields.io/badge/Medium-0b1220?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-```text
-        .-''''-.
-      .'  _    _ '.
-     /   (o)  (o)  \
-    |      .--.      |
-    |     /    \     |
-     \    \____/    /
-      '.          .'
-        '-.____.-'
+## `> profile`
 
-      ████  NERDYNODE  ████
-```
+<p align="center">
+  <img src="assets/profile.png" width="230" alt="Arghya Gain profile illustration" />
+</p>
+
+<h2 align="center">Arghya Gain</h2>
+<p align="center"><code>@NerdyNode</code></p>
+
+> Turning ☕ into <strong style="color:#58a6ff">code</strong> and ideas into <strong style="color:#58a6ff">impact</strong>.
+
+| | |
+|---|---|
+| `Location` | Kolkata, India |
+| `Role` | Student · Developer · Lifelong Learner |
+| `Focus` | AI/ML · Android · Backend Systems |
+| `Languages` | Python · C/C++ · Java · SQL · Dart |
+| `Status` | Always learning something new |
 
 </td>
+<td width="58%" valign="top">
 
-<td width="50%" valign="top">
+## `> whoami`
 
 ```text
-Name       : Arghya Gain
-Username   : NerdyNode
-Location   : Kolkata, India
-Role       : Student | Developer
-Focus      : AI/ML | Android | Backend
-Currently  : Building & learning
-Editor     : VS Code | PyCharm
-Motto      : Learn. Build. Share. Repeat.
+Name        : Arghya Gain
+Username    : NerdyNode
+Location    : Kolkata, India 🇮🇳
+Role        : Student | Developer | Lifelong Learner
+Focus       : AI/ML | Android Dev | Backend Systems
+Currently   : Exploring new tech and building cool things
+Editor      : VS Code
+OS          : Windows 11
+Motto       : Learn. Build. Share. Repeat.
+```
+
+### `> current_mission`
+
+```text
+$ build --ideas --into=working-products
+
+→ Learn deeply
+→ Build consistently
+→ Share openly
+→ Repeat with purpose
 ```
 
 </td>
@@ -44,49 +71,49 @@ Motto      : Learn. Build. Share. Repeat.
 
 ---
 
-### `> tech_stack`
+## `> tech_stack`
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,dart,mysql,html,css,js,git,arduino&theme=dark" alt="Python, C++, Java, Dart, MySQL, HTML, CSS, JavaScript, Git, and Arduino" />
+</p>
 
-`🐍 Python` · `☕ Java` · `⚙️ C/C++` · `🗄️ SQL` · `🌐 JavaScript` · `💙 Kotlin` · `🎯 Dart`
-
-`🤖 AI/ML` · `📱 Android` · `🔌 Arduino` · `♟️ Pygame` · `🔧 Git` · `☁️ Nextcloud`
-
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-0b1220?style=flat-square&logo=googlecolab&logoColor=F9AB00" alt="AI and machine learning" />
+  <img src="https://img.shields.io/badge/Android-0b1220?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
+  <img src="https://img.shields.io/badge/Pygame-0b1220?style=flat-square&logo=python&logoColor=3776AB" alt="Pygame" />
+  <img src="https://img.shields.io/badge/Nextcloud-0b1220?style=flat-square&logo=nextcloud&logoColor=0082C9" alt="Nextcloud" />
 </p>
 
 ---
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-### `> about_me`
+## `> about_me`
 
-I'm a curious developer who enjoys turning ideas into working projects.
-
-→ Interested in **AI/ML and data-driven solutions**  
-→ Building **software and Android applications**  
-→ Exploring **DBMS, SQL and backend systems**  
-→ Experimenting with **Arduino and hardware**  
-→ Learning by building real projects
-
-</td>
-
-<td width="50%" valign="top">
-
-### `> github_stats`
+I’m a curious developer who enjoys turning ideas into useful, working projects. I like exploring the space where **data, software, and thoughtful product design** meet.
 
 ```text
-Repositories       : 6
-Public Projects    : 6
-Current Focus      : Building
-Primary Language   : Python
-Contributions      : Active
-Status             : Learning & shipping 🚀
+→ Diving deeper into DSA, system design, and AI
+→ Building software and Android applications
+→ Exploring databases, SQL, and backend systems
+→ Experimenting with Arduino and hardware
+→ Learning by shipping real projects
 ```
 
-[![GitHub](https://img.shields.io/badge/@NerdyNode-181717?style=flat-square&logo=github)](https://github.com/NerdyNode)
-[![Repositories](https://img.shields.io/badge/Repositories-6-238636?style=flat-square)](https://github.com/NerdyNode?tab=repositories)
+</td>
+<td width="48%" valign="top">
+
+## `> github_stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NerdyNode&show_icons=true&hide_border=true&bg_color=0b1220&title_color=58a6ff&text_color=c9d1d9&icon_color=7ee787&rank_icon=github" alt="NerdyNode GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerdyNode&layout=compact&hide_border=true&bg_color=0b1220&title_color=58a6ff&text_color=c9d1d9" alt="NerdyNode top languages" />
+</p>
 
 </td>
 </tr>
@@ -94,81 +121,72 @@ Status             : Learning & shipping 🚀
 
 ---
 
-### `> featured_projects`
+## `> contribution_graph`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NerdyNode&bg_color=0b1220&color=c9d1d9&line=39d353&point=7ee787&area=true&hide_border=true" alt="NerdyNode contribution activity graph" />
+</p>
+
+---
+
+## `> featured_projects`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🧠 Age-Prediction
+### 🧠 [Age-Prediction-ML](https://github.com/NerdyNode/Age-Prediction)
 
-Machine-learning project using classification techniques for age prediction.
+Machine-learning project using classification techniques to predict age categories.
 
 `Python` · `XGBoost`
 
-**[↗ Repository](https://github.com/NerdyNode/Age-Prediction)**
-
 </td>
-
 <td width="33%" valign="top">
 
-### 🏥 MediFlow
+### 🏥 [MediFlow](https://github.com/NerdyNode/mediflow)
 
-Medical form digitization with OCR, validation and healthcare data integration.
+AI-powered medical form digitization with OCR, validation, and healthcare data integration.
 
-`TypeScript` · `AI`
-
-**[↗ Repository](https://github.com/NerdyNode/mediflow)**
+`TypeScript` · `AI` · `OCR`
 
 </td>
-
 <td width="33%" valign="top">
 
-### 🚗 Dynamic Parking
+### 🚗 [Dynamic Parking](https://github.com/NerdyNode/Dynamic-Parking-Pricing-System)
 
-Data-driven dynamic pricing for smart parking systems.
+Data-driven dynamic pricing for smarter parking systems and better space utilization.
 
 `Python` · `Data`
 
-**[↗ Repository](https://github.com/NerdyNode/Dynamic-Parking-Pricing-System)**
-
 </td>
 </tr>
-
 <tr>
 <td width="33%" valign="top">
 
-### ☕ LazyCoffee
+### ☕ [LazyCoffee](https://github.com/NerdyNode/lazycoffee)
 
-Self-hosted homelab setup for cloud storage, automation and private services.
+A self-hosted homelab setup for cloud storage, automation, and private services.
 
 `Shell` · `Self-hosting`
 
-**[↗ Repository](https://github.com/NerdyNode/lazycoffee)**
-
 </td>
-
 <td width="33%" valign="top">
 
-### 💸 SplitMint
+### 💸 [SplitMint](https://github.com/NerdyNode/splitmint)
 
-Expense splitting for friends and groups with UPI-oriented workflows.
+Smart expense splitting for friends and groups, with UPI payment support.
 
-`JavaScript`
-
-**[↗ Repository](https://github.com/NerdyNode/splitmint)**
+`JavaScript` · `Payments`
 
 </td>
-
 <td width="33%" valign="top">
 
-### 📄 PDF Wallet
+### 📄 [PDF Wallet](https://github.com/NerdyNode/pwallet)
 
-Android application for organizing and managing useful PDF documents.
+An Android application for securely organizing and managing useful PDF documents.
 
 `Kotlin` · `Android`
-
-**[↗ Repository](https://github.com/NerdyNode/pdf-wallet)**
 
 </td>
 </tr>
@@ -180,9 +198,11 @@ Android application for organizing and managing useful PDF documents.
 
 ```text
 "Code is like humor. When you have to explain it, it's bad."
-                                                    — Cory House
+                                      — Cory House
 ```
 
-**[GitHub](https://github.com/NerdyNode) · [LinkedIn](https://www.linkedin.com/in/arghya-gain-5b0a121a6/) · [Medium](https://medium.com/@arghyagain)**
+**[GitHub](https://github.com/NerdyNode)** · **[LinkedIn](https://www.linkedin.com/in/arghya-gain-5b0a121a6/)** · **[Medium](https://medium.com/@arghyagain)**
+
+<sub>Built with curiosity, consistency, and a little too much coffee.</sub>
 
 </div>
