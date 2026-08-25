@@ -184,10 +184,7 @@ An Android application for securely organizing and managing useful PDF documents
 
 <div align="center">
 
-```text
-"Code is like humor. When you have to explain it, it's bad."
-                                      — Cory House
-```
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 **[GitHub](https://github.com/NerdyNode)** · **[LinkedIn](https://www.linkedin.com/in/arghya-gain-5b0a121a6/)** · **[Medium](https://medium.com/@arghyagain)**
 
