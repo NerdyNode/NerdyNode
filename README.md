@@ -124,7 +124,7 @@ I’m a curious developer who enjoys turning ideas into useful, working projects
 ## `> contribution_graph`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NerdyNode&bg_color=0b1220&color=c9d1d9&line=39d353&point=7ee787&area=true&hide_border=true" alt="NerdyNode contribution activity graph" />
+  <img src="https://github.pumbas.net/api/contributions/NerdyNode?colour=BA753D&dotColour=30A14E&days=10" alt="NerdyNode's GitHub contributions" />
 </p>
 
 ---
