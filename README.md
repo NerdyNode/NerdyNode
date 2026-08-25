@@ -1,16 +1,12 @@
 <div align="center">
 
-# `NerdyNode@GitHub:~$ whoami`
+<h2><code>NerdyNode@GitHub:~$ whoami</code></h2>
 
-<a href="https://github.com/NerdyNode">
-  <img src="https://img.shields.io/badge/NerdyNode-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="NerdyNode on GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/arghya-gain-5b0a121a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-<a href="https://medium.com/@arghyagain">
-  <img src="https://img.shields.io/badge/Medium-0b1220?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a>
+<p>
+  <a href="https://github.com/NerdyNode"><img height="22" src="https://img.shields.io/badge/NerdyNode-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="NerdyNode on GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arghya-gain-5b0a121a6/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@arghyagain"><img height="22" src="https://img.shields.io/badge/Medium-0b1220?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
 
 </div>
 
