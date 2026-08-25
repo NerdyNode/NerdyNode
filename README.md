@@ -1,6 +1,8 @@
 <div align="center">
 
-<h2><code>NerdyNode@GitHub:~$ whoami</code></h2>
+```text
+NerdyNode@GitHub:~$ whoami
+```
 
 <p>
   <a href="https://github.com/NerdyNode"><img height="22" src="https://img.shields.io/badge/NerdyNode-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="NerdyNode on GitHub" /></a>&nbsp;&nbsp;
@@ -84,7 +86,7 @@ $ build --ideas --into=working-products
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="42%" valign="top">
 
 ## `> about_me`
 
@@ -99,7 +101,7 @@ I’m a curious developer who enjoys turning ideas into useful, working projects
 ```
 
 </td>
-<td width="48%" valign="top">
+<td width="58%" valign="top">
 
 ## `> contribution_graph`
 
