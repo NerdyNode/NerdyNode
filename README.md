@@ -45,12 +45,12 @@
 ```text
 Name        : Arghya Gain
 Username    : NerdyNode
-Location    : Kolkata, India 🇮🇳
+Email       : nerdynode.racoon166@passinbox.com
 Role        : Student | Developer | Lifelong Learner
 Focus       : AI/ML | Android Dev | Backend Systems
 Currently   : Exploring new tech and building cool things
-Editor      : VS Code
-OS          : Windows 11
+Editor      : VS Code, Android Studio
+OS          : Windows 11, Android, Linux
 Motto       : Learn. Build. Share. Repeat.
 ```
 
