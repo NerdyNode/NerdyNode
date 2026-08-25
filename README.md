@@ -105,27 +105,15 @@ I’m a curious developer who enjoys turning ideas into useful, working projects
 </td>
 <td width="48%" valign="top">
 
-## `> github_stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NerdyNode&show_icons=true&hide_border=true&bg_color=0b1220&title_color=58a6ff&text_color=c9d1d9&icon_color=7ee787&rank_icon=github" alt="NerdyNode GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerdyNode&layout=compact&hide_border=true&bg_color=0b1220&title_color=58a6ff&text_color=c9d1d9" alt="NerdyNode top languages" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 ## `> contribution_graph`
 
 <p align="center">
   <img src="https://github.pumbas.net/api/contributions/NerdyNode?colour=BA753D&dotColour=30A14E&days=10" alt="NerdyNode's GitHub contributions" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
