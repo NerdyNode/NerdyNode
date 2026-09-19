@@ -1,86 +1,74 @@
 <div align="center">
 
-```
-███╗   ██╗███████╗██████╗ ██████╗ ██╗   ██╗███╗   ██╗ ██████╗ ██████╗ ███████╗
-████╗  ██║██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝████╗  ██║██╔═══██╗██╔══██╗██╔════╝
-██╔██╗ ██║█████╗  ██████╔╝██║  ██║ ╚████╔╝ ██╔██╗ ██║██║   ██║██║  ██║█████╗  
-██║╚██╗██║██╔══╝  ██╔══██╗██║  ██║  ╚██╔╝  ██║╚██╗██║██║   ██║██║  ██║██╔══╝  
-██║ ╚████║███████╗██║  ██║██████╔╝   ██║   ██║ ╚████║╚██████╔╝██████╔╝███████╗
-╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═════╝    ╚═╝   ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
+<img src="assets/banner.svg" alt="A terminal window running whoami: Arghya Gain, Android and cloud developer" width="100%" />
 
-<a href="https://github.com/NerdyNode">
-  <img src="https://img.shields.io/badge/GitHub-NerdyNode-0b1220?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/arghya-gain-5b0a121a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-Arghya_Gain-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://medium.com/@arghyagain">
-  <img src="https://img.shields.io/badge/Medium-@arghyagain-0b1220?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+<br />
 
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=FFB454&center=true&vCenter=true&multiline=true&width=580&height=72&lines=Mobile+%C2%B7+Cloud+%C2%B7+UI%2FUX+developer;Building+things+people+open+twice.)
+<a href="https://github.com/NerdyNode"><img src="https://img.shields.io/badge/GitHub-NerdyNode-0f1514?style=for-the-badge&logo=github&logoColor=f2ab3c" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/arghya-gain-5b0a121a6/"><img src="https://img.shields.io/badge/LinkedIn-Arghya%20Gain-0f1514?style=for-the-badge&logo=linkedin&logoColor=f2ab3c" alt="LinkedIn" /></a>
+<a href="https://medium.com/@arghyagain"><img src="https://img.shields.io/badge/Medium-%40arghyagain-0f1514?style=for-the-badge&logo=medium&logoColor=f2ab3c" alt="Medium" /></a>
+<a href="mailto:nerdynode.racoon166@passinbox.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0f1514?style=for-the-badge&logoColor=f2ab3c" alt="Email" /></a>
 
 </div>
 
----
-
 <table>
 <tr>
-<td width="38%" valign="top">
+<td width="42%" valign="top">
 
-<br/>
-
-<p align="center">
-  <img src="assets/profile.png" width="200" alt="Arghya Gain" />
-</p>
-
-<h3 align="center">Arghya Gain</h3>
-<p align="center">
-  <code>@NerdyNode</code>
-  &nbsp;·&nbsp;
-  <img src="https://img.shields.io/badge/3rd_Year-TIET-FFB454?style=flat-square&labelColor=0b1220" />
-</p>
+## `> profile`
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NerdyNode&color=ffb454&style=flat-square&label=profile+views" />
+  <img src="assets/profile.png" width="230" alt="Arghya Gain profile illustration" />
 </p>
+
+<h2 align="center">Arghya Gain</h2>
+<p align="center"><code>@NerdyNode</code></p>
+
+> Turning ☕ into <strong style="color:#58a6ff">code</strong> and ideas into <strong style="color:#58a6ff">impact</strong>.
+
+| | |
+|---|---|
+| `Location` | Kolkata, India |
+| `Role` | Student · Developer · Lifelong Learner |
+| `Focus` | AI/ML · Android · Backend Systems |
+| `Languages` | Python · C/C++ · Java · SQL · Dart |
+| `Status` | Always learning something new |
 
 </td>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
-<br/>
+## `> whoami`
 
-```bash
-$ cat /etc/nerdynode/whoami.conf
+```text
+Name        : Arghya Gain
+Username    : NerdyNode
+Email       : nerdynode.racoon166@passinbox.com
+Role        : Student | Developer | Lifelong Learner
+Focus       : AI/ML | Android Dev | Backend Systems
+Currently   : Exploring new tech and building cool things
+Editor      : VS Code, Android Studio
+OS          : Windows 11, Android, Linux
+Motto       : Learn. Build. Share. Repeat.
 ```
 
-```ini
-[identity]
-name         = Arghya Gain
-username     = NerdyNode
-location     = Patiala, Punjab  # college
-hometown     = Kalyani, West Bengal
+### `> current_mission`
 
-[academic]
-institute    = Thapar Institute of Engineering & Technology
-program      = B.E. Computer Engineering
-batch        = 2023 – 2027
-
-[focus]
-primary      = Android development, Cloud infrastructure
-secondary    = Backend systems, UI/UX design
-tools        = Kotlin, Flutter, FastAPI, AWS, GCP, Figma
-
-[runtime]
-editor       = VS Code, Android Studio
-os           = Windows 11  +  Linux
-fuel         = coffee + curiosity
-motto        = Learn. Build. Ship. Repeat.
+```text
+$ build --ideas --into=working-products
+→ Learn deeply
+→ Build consistently
+→ Share openly
+→ Repeat with purpose
 ```
 
+### `> dev_mode`
+
+```text
+Fuel       : Coffee + curiosity
+Approach   : Build small. Learn fast.
+Current    : Turning ideas into useful tools
+Rule       : Ship → reflect → repeat
+```
 </td>
 </tr>
 </table>
@@ -89,36 +77,44 @@ motto        = Learn. Build. Ship. Repeat.
 
 ## `> tech_stack`
 
-**Languages**
+| Area | Tools |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=kotlin,python,java,dart,js,ts&theme=dark" alt="Kotlin, Python, Java, Dart, JavaScript, TypeScript" /> |
+| **Mobile and web** | <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,nodejs&theme=dark" alt="Flutter, Android Studio, React, Node.js" /><br /><img src="https://img.shields.io/badge/Jetpack%20Compose-0f1514?style=flat-square&logo=jetpackcompose&logoColor=f2ab3c" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/Material%203-0f1514?style=flat-square&logo=materialdesign&logoColor=f2ab3c" alt="Material 3" /> |
+| **Backend and data** | <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis,supabase&theme=dark" alt="FastAPI, PostgreSQL, MySQL, Redis, Supabase" /> |
+| **Cloud and infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,vercel,linux&theme=dark" alt="AWS, GCP, Docker, Terraform, Vercel, Linux" /><br /><img src="https://img.shields.io/badge/Vertex%20AI-0f1514?style=flat-square&logo=googlecloud&logoColor=f2ab3c" alt="Vertex AI" /> |
+| **Design and tools** | <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,arduino&theme=dark" alt="Figma, Git, GitHub, VS Code, Arduino" /> |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,python,java,dart,js,ts,html,css&theme=dark" />
+---
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+## `> about_me`
+
+I’m a curious developer who enjoys turning ideas into useful, working projects. I like exploring the space where **data, software, and thoughtful product design** meet.
+
+```text
+→ Diving deeper into DSA, system design, and AI
+→ Building software and Android applications
+→ Exploring databases, SQL, and backend systems
+→ Experimenting with Arduino and hardware
+→ Learning by shipping real projects
+```
+
+</td>
+<td width="48%" valign="top">
+
+## `> contribution_graph`
+
+<p align="center">
+  <img src="https://github.pumbas.net/api/contributions/NerdyNode?colour=BA753D&dotColour=30A14E&days=10" alt="NerdyNode's GitHub contributions" />
 </p>
 
-**Mobile & Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,figma&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jetpack_Compose-0b1220?style=flat-square&logo=jetpackcompose&logoColor=4285F4" />
-  <img src="https://img.shields.io/badge/Material_3-0b1220?style=flat-square&logo=materialdesign&logoColor=757575" />
-</p>
-
-**Backend & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,docker,aws,gcp,terraform&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Supabase-0b1220?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Vertex_AI-0b1220?style=flat-square&logo=googlecloud&logoColor=4285F4" />
-  <img src="https://img.shields.io/badge/Vercel-0b1220?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,notion&theme=dark" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -126,146 +122,70 @@ motto        = Learn. Build. Ship. Repeat.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏥 HealthSaathi `[ongoing]`
-> Mobile-based healthcare platform with role-based access for patients, doctors, nurses, and admins.
+### 🧠 [Age-Prediction-ML](https://github.com/NerdyNode/Age-Prediction)
 
-- Real-time queue management + appointment booking
-- Medical record versioning with **SHA-256 audit hash chain**
+Machine-learning project using classification techniques to predict age categories.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0b1220?style=flat-square&logo=fastapi)
-![Flutter](https://img.shields.io/badge/Flutter-0b1220?style=flat-square&logo=flutter&logoColor=54C5F8)
-![AWS](https://img.shields.io/badge/AWS-0b1220?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1220?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-0b1220?style=flat-square&logo=docker)
+`Python` · `XGBoost`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📄 [PDF Wallet](https://github.com/NerdyNode/pwallet) `[ongoing]`
-> Offline-first Android wallet — auto-detects, extracts, and organizes travel & government ID documents from PDFs.
+### 🏥 [HealthSaathi](https://github.com/vaani1127/capstone)
 
-- ML Kit OCR + IATA BCBP barcode support
-- SQLCipher encrypted · biometric/PIN lock
+Healthcare management platform with role-based access, real-time queue management, and SHA-256 audit hash chains for record integrity.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0b1220?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![Compose](https://img.shields.io/badge/Jetpack_Compose-0b1220?style=flat-square&logo=jetpackcompose)
-![Room](https://img.shields.io/badge/Room-0b1220?style=flat-square&logo=android)
-![MLKit](https://img.shields.io/badge/ML_Kit-0b1220?style=flat-square&logo=google)
+`TypeScript` · `AI` · `OCR`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💸 [SplitMint](https://github.com/NerdyNode/splitmint)
-> Smart expense-splitting for friends and groups with UPI-based settlement.
-
-- Auto-calculates who owes whom
-- UPI integration for instant settlements
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0b1220?style=flat-square&logo=javascript)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [MediFlow](https://github.com/NerdyNode/mediflow)
-> AI-powered medical form digitization with OCR and healthcare data integration.
-
-- Structured extraction from unstructured medical forms
-- Validation layer for healthcare pipelines
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0b1220?style=flat-square&logo=typescript)
-![AI](https://img.shields.io/badge/AI%2FOCR-0b1220?style=flat-square&logo=openai)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🚗 [Dynamic Parking](https://github.com/NerdyNode/Dynamic-Parking-Pricing-System)
-> Data-driven dynamic pricing for smarter parking space utilization.
 
-![Python](https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python)
+Data-driven dynamic pricing for smarter parking systems and better space utilization.
+
+`Python` · `Data`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 ### ☕ [LazyCoffee](https://github.com/NerdyNode/lazycoffee)
-> Self-hosted homelab for cloud storage, automation, and private services.
 
-![Shell](https://img.shields.io/badge/Shell-0b1220?style=flat-square&logo=gnubash)
-![SelfHosted](https://img.shields.io/badge/Self--Hosting-0b1220?style=flat-square&logo=homeassistant)
+A self-hosted homelab setup for cloud storage, automation, and private services.
+
+`Shell` · `Self-hosting`
+
+</td>
+<td width="33%" valign="top">
+
+### 💸 [SplitMint](https://github.com/NerdyNode/splitmint)
+
+Smart expense splitting for friends and groups, with UPI payment support.
+
+`JavaScript` · `Payments`
+
+</td>
+<td width="33%" valign="top">
+
+### 📄 [PDF Wallet](https://github.com/NerdyNode/pwallet)
+
+An Android application for securely organizing and managing useful PDF documents.
+
+`Kotlin` · `Android`
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><code>$ git log --all --oneline --projects</code></summary>
-<br/>
-
-| Project | Stack | What it does |
-|---|---|---|
-| [Age-Prediction-ML](https://github.com/NerdyNode/Age-Prediction) | `Python` `XGBoost` | Classification model predicting age categories |
-| SpendMint | `Figma` `Material 3` | Six-screen Material 3 finance app design system |
-| Expense Tracker | `Kotlin` `Compose` `Room` | Offline Android tracker parsing GPay PDF statements |
-
-</details>
-
----
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-## `> about_me`
-
-```text
-I build things I'd actually want to use.
-
-Mostly Android apps (Kotlin + Compose), cloud
-infrastructure, and UI/UX — but the thread
-connecting all of it is:
-
-  "Does this hold up under real use?"
-
-When I'm not coding, I'm:
-  → learning the ukulele (badly)
-  → PC gaming on Steam
-  → somewhere in the mountains, bad wifi
-  → restoring old family photos
-```
-
-</td>
-<td width="45%" valign="top">
-
-## `> stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NerdyNode&show_icons=true&theme=github_dark&hide_border=true&title_color=FFB454&icon_color=FFB454&text_color=dcd6c4&bg_color=101410" width="100%" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github.pumbas.net/api/contributions/NerdyNode?colour=BA753D&dotColour=30A14E&days=10" width="100%" alt="contribution graph" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerdyNode&layout=compact&theme=github_dark&hide_border=true&title_color=FFB454&text_color=dcd6c4&bg_color=101410" alt="Top languages" />
-</p>
 
 ---
 
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
 
 **[GitHub](https://github.com/NerdyNode)** · **[LinkedIn](https://www.linkedin.com/in/arghya-gain-5b0a121a6/)** · **[Medium](https://medium.com/@arghyagain)**
 
