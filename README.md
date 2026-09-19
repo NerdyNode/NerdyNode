@@ -1,259 +1,110 @@
 <div align="center">
 
-# `NerdyNode@GitHub:~$ whoami`
+<img src="assets/banner.svg" alt="A terminal window running whoami: Arghya Gain, Android and cloud developer" width="100%" />
 
-**Computer Engineering student · Android & cloud developer · building things people open twice**
+<br />
 
-<a href="https://github.com/NerdyNode">
-  <img src="https://img.shields.io/badge/NerdyNode-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="NerdyNode on GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/arghya-gain-5b0a121a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-<a href="https://medium.com/@arghyagain">
-  <img src="https://img.shields.io/badge/Medium-0b1220?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a>
+<a href="https://github.com/NerdyNode"><img src="https://img.shields.io/badge/GitHub-NerdyNode-0f1514?style=for-the-badge&logo=github&logoColor=f2ab3c" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/arghya-gain-5b0a121a6/"><img src="https://img.shields.io/badge/LinkedIn-Arghya%20Gain-0f1514?style=for-the-badge&logo=linkedin&logoColor=f2ab3c" alt="LinkedIn" /></a>
+<a href="https://medium.com/@arghyagain"><img src="https://img.shields.io/badge/Medium-%40arghyagain-0f1514?style=for-the-badge&logo=medium&logoColor=f2ab3c" alt="Medium" /></a>
+<a href="mailto:nerdynode.racoon166@passinbox.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0f1514?style=for-the-badge&logoColor=f2ab3c" alt="Email" /></a>
 
 </div>
 
+<br />
+
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="230" valign="top" align="center">
 
-## `> profile`
-
-<p align="center">
-  <img src="assets/profile.png" width="220" alt="Arghya Gain" />
-</p>
-
-<h2 align="center">Arghya Gain</h2>
-<p align="center"><code>@NerdyNode</code></p>
-
-> Turning ☕ into <strong>code</strong> and ideas into <strong>impact</strong>.
-
-| | |
-|---|---|
-| `Location` | Patiala, Punjab · from Kalyani, WB |
-| `Studying` | B.E. Computer Engineering, TIET |
-| `Batch` | 2023 – 2027 (3rd year) |
-| `Focus` | Android · Cloud · Backend · UI/UX |
-| `Status` | Always learning something new |
+<img src="assets/profile.png" width="200" alt="Arghya Gain" />
 
 </td>
-<td width="58%" valign="top">
+<td valign="top">
 
-## `> whoami`
+### Hi, I'm Arghya
 
-```text
-Name        : Arghya Gain
-Username    : NerdyNode
-Email       : nerdynode.racoon166@passinbox.com
-Institute   : Thapar Institute of Engineering & Technology
-Role        : Student | Developer | Lifelong Learner
-Focus       : Android Dev | Cloud | Backend Systems | UI/UX
-Experience  : AWS Cloud Intern @ Pratinik Infotech (2025)
-Editor      : VS Code, Android Studio
-OS          : Windows 11, Android, Linux
-Motto       : Learn. Build. Share. Repeat.
-```
+I'm a Computer Engineering student who likes building things people open twice: offline-first Android apps, cloud-backed platforms, and interfaces that hold up under real use.
 
-### `> current_mission`
-
-```text
-$ build --ideas --into=working-products
-→ Learn deeply
-→ Build consistently
-→ Share openly
-→ Repeat with purpose
-```
-
-### `> dev_mode`
-
-```text
-Fuel       : Coffee + curiosity
-Approach   : Build small. Learn fast.
-Current    : HealthSaathi — healthcare platform (capstone)
-Rule       : Ship → reflect → repeat
-```
+- **Studying:** B.E. Computer Engineering at Thapar Institute, 3rd year (2023 to 2027)
+- **Based in:** Patiala, Punjab. Originally from Kalyani, West Bengal
+- **Focus:** Android, cloud, backend, and UI/UX
+- **Works in:** VS Code and Android Studio, on Windows 11 and Linux
 
 </td>
 </tr>
 </table>
 
----
+<br />
 
-## `> tech_stack`
+## What I build
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,java,dart,js,ts,flutter,androidstudio&theme=dark" alt="Kotlin, Python, Java, Dart, JavaScript, TypeScript, Flutter, Android Studio" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,postgres,redis,docker,aws,gcp&theme=dark" alt="FastAPI, Node.js, React, PostgreSQL, Redis, Docker, AWS, GCP" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,supabase,vercel,mysql,linux&theme=dark" alt="Figma, Git, GitHub, VS Code, Supabase, Vercel, MySQL, Linux" />
-</p>
+| Android | Cloud and backend | Interfaces |
+|---|---|---|
+| Offline-first apps in Kotlin and Jetpack Compose, with on-device OCR and encrypted storage where the data is personal. | FastAPI and PostgreSQL backends. Working across AWS and GCP, with infrastructure as code. | Designed in Figma before any code is written, then built with Material 3. |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-0b1220?style=flat-square&logo=jetpackcompose&logoColor=4285F4" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Material%203-0b1220?style=flat-square&logo=materialdesign&logoColor=757575" alt="Material 3" />
-  <img src="https://img.shields.io/badge/Terraform-0b1220?style=flat-square&logo=terraform&logoColor=7B42BC" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-0b1220?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/Arduino-0b1220?style=flat-square&logo=arduino&logoColor=00979D" alt="Arduino" />
-</p>
+<br />
 
----
+## Featured projects
 
-<table>
-<tr>
-<td width="52%" valign="top">
+| Project | What it does | Stack |
+|---|---|---|
+| **HealthSaathi**<br />*in progress, capstone* | Healthcare management platform with role-based access, real-time queue management, and SHA-256 audit hash chains for record integrity. | `FastAPI` `Flutter` `AWS` |
+| **[PDF Wallet](https://github.com/NerdyNode/pwallet)**<br />*in progress* | Offline-first Android wallet that auto-detects and organizes travel and ID documents. On-device OCR, encrypted storage, no backend. | `Kotlin` `Compose` `ML Kit` |
+| **[SplitMint](https://github.com/NerdyNode/splitmint)** | Expense splitting for friends and groups, with a UPI-based settlement flow that makes repayments painless. | `JavaScript` |
+| **[MediFlow](https://github.com/NerdyNode/mediflow)** | AI-powered medical form digitization with OCR, validation, and healthcare data integration. | `TypeScript` `AI` `OCR` |
+| **[Dynamic Parking](https://github.com/NerdyNode/Dynamic-Parking-Pricing-System)** | Data-driven dynamic pricing for smarter parking systems and better space utilization. | `Python` |
+| **[LazyCoffee](https://github.com/NerdyNode/lazycoffee)** | A self-hosted homelab for cloud storage, automation, and private services. | `Shell` |
 
-## `> about_me`
+<details>
+<summary><b>More projects</b></summary>
 
-I'm a Computer Engineering student who enjoys turning ideas into useful, working
-projects — mostly **offline-first Android apps**, **cloud-backed platforms**, and
-**interfaces that hold up under real use**.
+<br />
 
-```text
-→ Building Android apps with Kotlin + Jetpack Compose
-→ Working with AWS, GCP, and infrastructure as code
-→ Designing interfaces in Figma before writing the code
-→ Diving deeper into DSA, system design, and AI
-→ Experimenting with Arduino and self-hosting
-→ Learning by shipping real projects
-```
+| Project | What it is | Stack |
+|---|---|---|
+| [Age-Prediction-ML](https://github.com/NerdyNode/Age-Prediction) | Classification model that predicts age categories. | `Python` `XGBoost` |
+| SpendMint | Six-screen Material 3 finance app, designed as a full system in Figma. | `Figma` `Material 3` |
+| Expense Tracker | Offline Android tracker that parses GPay PDF statements and auto-categorizes transactions with fuzzy matching. | `Kotlin` `Compose` `Room` |
 
-</td>
-<td width="48%" valign="top">
+</details>
 
-## `> contribution_graph`
+<br />
+
+## Toolbox
+
+| Area | Tools |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=kotlin,python,java,dart,js,ts&theme=dark" alt="Kotlin, Python, Java, Dart, JavaScript, TypeScript" /> |
+| **Mobile and web** | <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,nodejs&theme=dark" alt="Flutter, Android Studio, React, Node.js" /><br /><img src="https://img.shields.io/badge/Jetpack%20Compose-0f1514?style=flat-square&logo=jetpackcompose&logoColor=f2ab3c" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/Material%203-0f1514?style=flat-square&logo=materialdesign&logoColor=f2ab3c" alt="Material 3" /> |
+| **Backend and data** | <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis,supabase&theme=dark" alt="FastAPI, PostgreSQL, MySQL, Redis, Supabase" /> |
+| **Cloud and infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,vercel,linux&theme=dark" alt="AWS, GCP, Docker, Terraform, Vercel, Linux" /><br /><img src="https://img.shields.io/badge/Vertex%20AI-0f1514?style=flat-square&logo=googlecloud&logoColor=f2ab3c" alt="Vertex AI" /> |
+| **Design and tools** | <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,arduino&theme=dark" alt="Figma, Git, GitHub, VS Code, Arduino" /> |
+
+<br />
+
+## Currently
+
+- Building **HealthSaathi**, a healthcare platform, as my capstone
+- Finishing **PDF Wallet**, an offline-first document wallet for Android
+- Growing **LazyCoffee**, my self-hosted homelab
+- Going deeper on DSA, system design, and AI
+- Experimenting with Arduino
+
+<br />
+
+## Activity
 
 <p align="center">
   <img src="https://github.pumbas.net/api/contributions/NerdyNode?colour=BA753D&dotColour=30A14E&days=10" alt="NerdyNode's GitHub contributions" />
 </p>
 
-</td>
-</tr>
-</table>
-
----
-
-## `> experience`
-
-**AWS Cloud Intern** · Pratinik Infotech · Remote · *Aug – Oct 2025*
-
-```text
-→ Cloud data-analytics dashboard: Kinesis ingestion, Lambda processing,
-  Redshift storage, with a front-end for interactive visualizations
-→ Disaster recovery: S3 versioning, CloudFormation (IaC), Route 53 failover
-→ Serverless support chatbot: Lex for NLP, Lambda, API Gateway, Cognito auth
-```
-
-**Positions of responsibility**
-
-| Role | Organization | Term |
-|---|---|---|
-| Core Member | FAPS | 2024 – 2026 |
-| Executive Committee Member | IIC TIET | 2024 – 2026 |
-
----
-
-## `> featured_projects`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🏥 HealthSaathi
-
-Healthcare management platform with role-based access, real-time queue management, and SHA-256 audit hash chains for record integrity.
-
-`FastAPI` · `Flutter` · `AWS`
-
-</td>
-<td width="33%" valign="top">
-
-### 📄 [PDF Wallet](https://github.com/NerdyNode/pwallet)
-
-Offline-first Android wallet that auto-detects and organizes travel and ID documents. On-device OCR, encrypted storage, no backend.
-
-`Kotlin` · `Compose` · `ML Kit`
-
-</td>
-<td width="33%" valign="top">
-
-### 💸 [SplitMint](https://github.com/NerdyNode/splitmint)
-
-Smart expense splitting for friends and groups, with a UPI-based settlement flow for painless repayments.
-
-`JavaScript` · `Payments`
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🧠 [MediFlow](https://github.com/NerdyNode/mediflow)
-
-AI-powered medical form digitization with OCR, validation, and healthcare data integration.
-
-`TypeScript` · `AI` · `OCR`
-
-</td>
-<td width="33%" valign="top">
-
-### 🚗 [Dynamic Parking](https://github.com/NerdyNode/Dynamic-Parking-Pricing-System)
-
-Data-driven dynamic pricing for smarter parking systems and better space utilization.
-
-`Python` · `Data`
-
-</td>
-<td width="33%" valign="top">
-
-### ☕ [LazyCoffee](https://github.com/NerdyNode/lazycoffee)
-
-A self-hosted homelab setup for cloud storage, automation, and private services.
-
-`Shell` · `Self-hosting`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><code>$ ls projects/ --all</code></summary>
-
-<br>
-
-| Project | What it is | Stack |
-|---|---|---|
-| [Age-Prediction-ML](https://github.com/NerdyNode/Age-Prediction) | Classification model predicting age categories | `Python` `XGBoost` |
-| SpendMint | Six-screen Material 3 finance app design system | `Figma` `Material 3` |
-| Expense Tracker | Offline Android tracker that parses GPay PDF statements and auto-categorizes with fuzzy matching | `Kotlin` `Compose` `Room` |
-
-</details>
-
----
-
-## `> certifications`
-
-| Certification | Issuer | Date |
-|---|---|---|
-| Ethical Hacker Certification | Cisco | May 2026 |
-| Build Real World AI Applications with Gemini and Imagen | Google Cloud Skills Boost | May 2025 |
-| Summer Analytics 2025 | Consulting & Analytics Club, IIT Guwahati | Apr 2025 |
-| Store, Process, and Manage Data on Google Cloud | Google Cloud Skills Boost | Apr 2024 |
-| Power BI Certification | TNX Learning | Dec 2023 |
-
----
+<br />
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
+**Learn. Build. Share. Repeat.**
 
-**[GitHub](https://github.com/NerdyNode)** · **[LinkedIn](https://www.linkedin.com/in/arghya-gain-5b0a121a6/)** · **[Medium](https://medium.com/@arghyagain)**
-
-<sub>Built with curiosity, consistency, and a little too much coffee.</sub>
+<sub>Fuelled by coffee and curiosity.</sub>
 
 </div>
