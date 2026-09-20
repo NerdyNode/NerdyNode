@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="A terminal window running whoami: Arghya Gain, Android and cloud developer" width="100%" />
+<img src="assets/banner.svg?v=2" alt="A terminal window running whoami: Arghya Gain, Android and cloud developer" width="100%" />
 
 <br />
 
