@@ -7,7 +7,7 @@
 <a href="https://github.com/NerdyNode"><img src="https://img.shields.io/badge/GitHub-NerdyNode-0f1514?style=for-the-badge&logo=github&logoColor=f2ab3c" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/arghya-gain-5b0a121a6/"><img src="https://img.shields.io/badge/LinkedIn-Arghya%20Gain-0f1514?style=for-the-badge&logo=linkedin&logoColor=f2ab3c" alt="LinkedIn" /></a>
 <a href="https://medium.com/@arghyagain"><img src="https://img.shields.io/badge/Medium-%40arghyagain-0f1514?style=for-the-badge&logo=medium&logoColor=f2ab3c" alt="Medium" /></a>
-<a href="mailto:nerdynode.racoon166@passinbox.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0f1514?style=for-the-badge&logoColor=f2ab3c" alt="Email" /></a>
+<a href="mailto:nerdynode.0@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0f1514?style=for-the-badge&logoColor=f2ab3c" alt="Email" /></a>
 
 </div>
 
@@ -24,7 +24,7 @@
 <h2 align="center">Arghya Gain</h2>
 <p align="center"><code>@NerdyNode</code></p>
 
-> Turning ☕ into <strong style="color:#58a6ff">code</strong> and ideas into <strong style="color:#58a6ff">impact</strong>.
+> Turning ☕ into <strong style="color:#a5c90f">code</strong> and <strong style="color:#04c4b0">ideas</strong> into <strong style="color:#ff8829">impact</strong>.
 
 | | |
 |---|---|
@@ -42,7 +42,7 @@
 ```text
 Name        : Arghya Gain
 Username    : NerdyNode
-Email       : nerdynode.racoon166@passinbox.com
+Email       : nerdynode.0@gmail.com
 Role        : Student | Developer | Lifelong Learner
 Focus       : AI/ML | Android Dev | Backend Systems
 Currently   : Exploring new tech and building cool things
@@ -77,44 +77,16 @@ Rule       : Ship → reflect → repeat
 
 ## `> tech_stack`
 
-| Area | Tools |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=kotlin,python,java,dart,js,ts&theme=dark" alt="Kotlin, Python, Java, Dart, JavaScript, TypeScript" /> |
-| **Mobile and web** | <img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,nodejs&theme=dark" alt="Flutter, Android Studio, React, Node.js" /><br /><img src="https://img.shields.io/badge/Jetpack%20Compose-0f1514?style=flat-square&logo=jetpackcompose&logoColor=f2ab3c" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/Material%203-0f1514?style=flat-square&logo=materialdesign&logoColor=f2ab3c" alt="Material 3" /> |
-| **Backend and data** | <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis,supabase&theme=dark" alt="FastAPI, PostgreSQL, MySQL, Redis, Supabase" /> |
-| **Cloud and infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,vercel,linux&theme=dark" alt="AWS, GCP, Docker, Terraform, Vercel, Linux" /><br /><img src="https://img.shields.io/badge/Vertex%20AI-0f1514?style=flat-square&logo=googlecloud&logoColor=f2ab3c" alt="Vertex AI" /> |
-| **Design and tools** | <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,arduino&theme=dark" alt="Figma, Git, GitHub, VS Code, Arduino" /> |
-
----
-
-<table>
-<tr>
-<td width="52%" valign="top">
-
-## `> about_me`
-
-I’m a curious developer who enjoys turning ideas into useful, working projects. I like exploring the space where **data, software, and thoughtful product design** meet.
-
-```text
-→ Diving deeper into DSA, system design, and AI
-→ Building software and Android applications
-→ Exploring databases, SQL, and backend systems
-→ Experimenting with Arduino and hardware
-→ Learning by shipping real projects
-```
-
-</td>
-<td width="48%" valign="top">
-
-## `> contribution_graph`
-
 <p align="center">
-  <img src="https://github.pumbas.net/api/contributions/NerdyNode?colour=BA753D&dotColour=30A14E&days=10" alt="NerdyNode's GitHub contributions" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,dart,mysql,html,css,js,git,arduino&theme=dark" alt="Python, C++, Java, Dart, MySQL, HTML, CSS, JavaScript, Git, and Arduino" />
 </p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-0b1220?style=flat-square&logo=googlecolab&logoColor=F9AB00" alt="AI and machine learning" />
+  <img src="https://img.shields.io/badge/Android-0b1220?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" />
+  <img src="https://img.shields.io/badge/Pygame-0b1220?style=flat-square&logo=python&logoColor=3776AB" alt="Pygame" />
+  <img src="https://img.shields.io/badge/Nextcloud-0b1220?style=flat-square&logo=nextcloud&logoColor=0082C9" alt="Nextcloud" />
+</p>
 
 ---
 
@@ -124,11 +96,11 @@ I’m a curious developer who enjoys turning ideas into useful, working projects
 <tr>
 <td width="33%" valign="top">
 
-### 🧠 [Age-Prediction-ML](https://github.com/NerdyNode/Age-Prediction)
+### 🧠 [Vitara](https://github.com/NerdyNode/Vitara)
 
-Machine-learning project using classification techniques to predict age categories.
+AI-powered personal health intelligence dashboard with medical document review, prescriptions, lab tracking, and emergency health card.
 
-`Python` · `XGBoost`
+`TypeScript` · `JavaScript`· `CSS`
 
 </td>
 <td width="33%" valign="top">
@@ -142,11 +114,11 @@ Healthcare management platform with role-based access, real-time queue managemen
 </td>
 <td width="33%" valign="top">
 
-### 🚗 [Dynamic Parking](https://github.com/NerdyNode/Dynamic-Parking-Pricing-System)
+### 🎟️ [PWallet](https://github.com/NerdyNode/pwallet)
 
-Data-driven dynamic pricing for smarter parking systems and better space utilization.
+An Android wallet for tickets, boarding passes, passes, IDs, and certificates, with local-first storage and asynchronous processing. 
 
-`Python` · `Data`
+`Kotlin` · `Android`
 
 </td>
 </tr>
@@ -155,28 +127,27 @@ Data-driven dynamic pricing for smarter parking systems and better space utiliza
 
 ### ☕ [LazyCoffee](https://github.com/NerdyNode/lazycoffee)
 
-A self-hosted homelab setup for cloud storage, automation, and private services.
+A self-hosted always-on PC as a personal cloud, local AI server, and automation machine while keeping personal services private.
 
 `Shell` · `Self-hosting`
 
 </td>
 <td width="33%" valign="top">
 
-### 💸 [SplitMint](https://github.com/NerdyNode/splitmint)
+### 💸 [Moneywise](https://github.com/NerdyNode/splitmint)
 
-Smart expense splitting for friends and groups, with UPI payment support.
+Personal finance app that extracts every transaction, and sorts them into categories you define — automatically, and entirely on-device.
 
 `JavaScript` · `Payments`
 
 </td>
 <td width="33%" valign="top">
 
-### 📄 [PDF Wallet](https://github.com/NerdyNode/pwallet)
+### 🚗 [Dynamic Parking](https://github.com/NerdyNode/Dynamic-Parking-Pricing-System)
 
-An Android application for securely organizing and managing useful PDF documents.
+A dynamic parking pricing system with the goal of maximizing parking usage and generating income in metropolitan settings.
 
-`Kotlin` · `Android`
-
+`Python` · `Data`
 </td>
 </tr>
 </table>
